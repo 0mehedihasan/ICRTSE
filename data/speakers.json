@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Dr. Mohammad Shamsul Arefin",
+        "title": "President, Bangladesh Computer Society, Professor CSE and Dean, Faculty of ECE, CUET",
+        "topic": "Privacy-Preserving and Energy-Efficient Federated Learning at the Edge",
+        "email": "sarefin@cuet.ac.bd",
+        "image": "/speakers/sarefin.jpeg"
+    },
+    {
+        "name": "Dr. K. M. Azharul Hasan",
+        "title": "Professor, CSE, KUET | Chair, IEEE CS BDC",
+        "topic": "",
+        "email": "az@cse.kuet.ac.bd",
+        "image": "https://i.ibb.co/h2Z9c3q/azharul.jpg"
+    },
+    {
+        "name": "Dr Shashikant Patil",
+        "title": "Senior Director and Professor, uGDX School of Technology, Atlas SkillTech University",
+        "topic": "Large Quantitative Models and Industry Applications",
+        "email": "sspatil999@gmail.com",
+        "image": "/speakers/patil.jpeg"
+    },
+    {
+        "name": "Dr. Md. Obaidur Rahman",
+        "title": "Chair Elect, IEEE CS BDC, Professor, CSE and Director, IQAC , DUET",
+        "topic": "Social Engineering and Ethical Hacking in the Context of Cyber Security Threats",
+        "email": "orahman@duet.ac.bd",
+        "image": "/speakers/obaidur.jpg"
+    },
+    {
+        "name": "Dr. Md Zahidul Islam",
+        "title": "Vice Chair (Technical), IEEE CS BDC, Professor, ICT, IU, ",
+        "topic": "Recent Trends in Intelligent Manufacturing",
+        "email": "zahidimage@gmail.com",
+        "image": "/speakers/zahidul.jpg"
+    },
+    {
+        "name": "Dr. Nasrin Sultana, SMIEEE,  Postdoc (Japan)",
+        "title": "Associate Professor,ECE,HSTU, Dinajpur |  Chair, IEEE Photonics Society Bangladesh Chapter",
+        "topic": "Ultrafast Lasers in the AI Era: Advancements and Future Prospects",
+        "email": "nasrinsultana@hstu.ac.bd",
+        "image": "/speakers/nasrin.jpeg"
+    },
+    {
+        "name": "Dr. Md. Maruf Hassan, CISA, CEH, CEI, CHFI",
+        "title": "Associate Professor,Department of Computer Science and Engineering ,Southeast University",
+        "topic": "An Automated Two-Level Secure Data Hiding Algorithm for Video Steganography",
+        "email": "ancssf@gmail.com",
+        "image": "/speakers/maruf.jpeg"
+    },
+    {
+        "name": "Dewmini Rathnayake",
+        "title": "Junior Project Manager, Labour Hub Australia Pty Ltd., Australia",
+        "topic": "Quantum Computing: Transforming the Future of Technology",
+        "email": "dewrathnayake99@gmail.com",
+        "image": "/speakers/Dewmini.jpg"
+    },
+    {
+        "name": "Ranim Damak",
+        "title": "Secretary, IEEE Computer Society Tunisia Chapter",
+        "topic": "IEEE Computer Society: Opportunities, Programs, and Membership Benefits",
+        "email": "Ranimdamak@ieee.org",
+        "image": "/speakers/ranim.jpeg"
+    },
+    {
+        "name": "Israt Jahan Khan Chowdhury",
+        "title": "PhD Fellow, Mahidol University, Thailand",
+        "topic": "Transforming Infectious Disease Research Using High-Content Imaging",
+        "email": "israteshu@gmail.com",
+        "image": "/speakers/israt.jpg"
+    },
+    {
+        "name": "Samar Algheetany",
+        "title": "Senior Procurement Associate, PepsiCo Global S&T UK",
+        "topic": "The Role of AI in Sustainable Engineering & Procurement: Bridging Technology and Efficiency",
+        "email": "Samar.Algheetany@pepsico.com",
+        "image": "/speakers/samar.jpg"
+    },
+    {
+        "name": "Alaa El- Rahman",
+        "title": "Arab Academy for Science, Technology & Maritime Transport",
+        "topic": "AI and data science in medical research and medical applications trends",
+        "email": "alaaelrahman530@gmail.com",
+        "image": "/speakers/Alaa.jpg"
+    },
+    {
+        "name": "Eya Karmous",
+        "title": "Former Android Penetration Tester Intern, Sagemcom\nTEK-UP Private College of Engineering & Technology",
+        "topic": "Evolution of Cybersecurity in Contemporary Computer Science",
+        "email": "eya.karmous@ieee.org",
+        "image": "/speakers/eya.jpeg"
+    },
+    {
+        "name": "Nour Challouf",
+        "title": "National School of Electronics and Telecoms of Sfax",
+        "topic": "Embedded systems in robotics and automation",
+        "email": "challoufnour@ieee.org",
+        "image": "/speakers/nour.jpeg"
+    },
+    {
+        "name": "Muhammad Saood Choudhary",
+        "title": "Region 10 Lead, IEEE Xtreme 19.0",
+        "topic": "How IEEE Xtreme is Shaping the Next Generation of Young Professional Leaders in Computer Science",
+        "email": "muhammadsaoodchoudhary@ieee.org",
+        "image": "/speakers/SAOOD-CH.png"
+    }
+]
